@@ -7,3 +7,5 @@ def my_collect(array)
   end
   collection
 end
+
+my_collect(["Tim Root", "Steve Tree", "Hungry Hippo"])
