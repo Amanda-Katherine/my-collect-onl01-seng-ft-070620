@@ -4,4 +4,3 @@ collection = ['ruby', 'javascript', 'python', 'objective-c']
   lang.upcase
   end
   collection
-
